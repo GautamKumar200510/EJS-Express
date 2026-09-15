@@ -4,7 +4,7 @@ A beginner-friendly practice project built with **Node.js, Express.js, and EJS**
 
 ---
 
-## 🚀 About The Project
+## About The Project
 
 This project was created to practice and understand the fundamentals of:
 
@@ -21,7 +21,7 @@ The project uses **EJS templates** to generate dynamic HTML pages from server-si
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
